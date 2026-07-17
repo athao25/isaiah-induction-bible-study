@@ -53,8 +53,9 @@
   var KEY = 'isaiah-study-progress';
   var here = location.pathname.split('/').pop();
   var inLessons = location.pathname.indexOf('/lessons/') !== -1;
-  var lessonPrefix = inLessons ? '' : '../lessons/';
-  var refPrefix = inLessons ? '../reference/' : '';
+  var inReference = location.pathname.indexOf('/reference/') !== -1;
+  var lessonPrefix = inLessons ? '' : (inReference ? '../lessons/' : 'lessons/');
+  var refPrefix = inReference ? '' : (inLessons ? '../reference/' : 'reference/');
 
   function load() {
     try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
