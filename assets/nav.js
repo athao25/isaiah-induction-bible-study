@@ -40,7 +40,23 @@
     { f: '0032-isaiah-23-the-oracle-against-tyre.html',      t: '23 · Oracle: Tyre' },
     { f: '0033-isaiah-24-the-earth-laid-waste.html',         t: '24 · Earth Laid Waste' },
     { f: '0034-isaiah-25-the-feast-on-the-mountain.html',    t: '25 · Feast on the Mountain' },
-    { f: '0035-isaiah-26-perfect-peace.html',                t: '26 · Perfect Peace' }
+    { f: '0035-isaiah-26-perfect-peace.html',                t: '26 · Perfect Peace' },
+    { f: '0036-isaiah-27-the-vineyard-sings-again.html',     t: '27 · Vineyard Sings Again' },
+    { f: '0037-isaiah-28-the-cornerstone-in-zion.html',      t: '28 · Cornerstone in Zion' },
+    { f: '0038-isaiah-29-1-14-ariel-and-the-sealed-book.html', t: '29:1-14 · Ariel, Sealed Book' },
+    { f: '0039-isaiah-29-15-24-the-potter-and-the-clay.html', t: '29:15-24 · Potter and Clay' },
+    { f: '0040-isaiah-30-1-17-in-returning-and-rest.html',   t: '30:1-17 · Returning and Rest' },
+    { f: '0041-isaiah-30-18-33-the-lord-waits-to-be-gracious.html', t: '30:18-33 · He Waits to Be Gracious' },
+    { f: '0042-isaiah-31-woe-to-those-who-go-down-to-egypt.html', t: '31 · Down to Egypt' },
+    { f: '0043-isaiah-32-a-king-in-righteousness.html',      t: '32 · King in Righteousness' },
+    { f: '0044-isaiah-33-the-king-in-his-beauty.html',       t: '33 · King in His Beauty' },
+    { f: '0045-isaiah-34-the-day-of-vengeance.html',         t: '34 · Day of Vengeance' },
+    { f: '0046-isaiah-35-the-desert-blooms.html',            t: '35 · Desert Blooms' },
+    { f: '0047-isaiah-36-the-rabshakeh-at-the-wall.html',    t: '36 · Rabshakeh at the Wall' },
+    { f: '0048-isaiah-37-the-angel-and-the-answer.html',     t: '37 · Angel and the Answer' },
+    { f: '0049-isaiah-38-hezekiahs-fifteen-years.html',      t: '38 · Hezekiah\'s Fifteen Years' },
+    { f: '0050-isaiah-39-the-envoys-from-babylon.html',      t: '39 · Envoys from Babylon' },
+    { f: '0051-isaiah-40-1-11-comfort-my-people.html',       t: '40:1-11 · Comfort My People' }
   ];
   var REFS = [
     { f: 'inductive-method.html', t: 'Inductive Method' },
